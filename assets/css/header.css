@@ -1,0 +1,34 @@
+
+.header-container{
+    /* background-image: url("../images/hero.png"); */
+    background-color: teal;
+    /* background-repeat: no-repeat;
+    background-attachment: fixed; */
+    width: 100%;
+    
+    margin: 0 auto;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-logo{
+    /* margin: 1em 1em; */
+
+}
+
+.navbar-container ul{
+    display: flex;
+    
+}
+
+.navbar-container ul li{
+    list-style: none;
+    margin-right: 2em;
+}
+
+.nav-btn{
+    margin: 1em;
+}
